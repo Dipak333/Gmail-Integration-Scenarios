@@ -1,0 +1,100 @@
+Compose Email: Verify that users can compose a new email with attachments and formatting options.
+Send Email: Confirm that emails are sent successfully to recipients.
+Receive Email: Ensure incoming emails appear promptly in the inbox.
+Reply to Email: Validate the ability to reply to emails with quoted text.
+Forward Email: Check that emails can be forwarded to other recipients.
+Attach Files: Verify that various file types (e.g., documents, images) can be attached to emails.
+Format Text: Validate text formatting options (e.g., bold, italic, underline) in the email composer.
+Insert Links: Confirm that hyperlinks can be inserted into email bodies.
+Add CC/BCC: Ensure recipients can be added to the CC (carbon copy) and BCC (blind carbon copy) fields.
+Save Drafts: Check that draft emails are saved and can be edited later.
+Delete Emails: Verify that emails can be deleted from the inbox or other folders.
+Archive Emails: Confirm that emails can be archived for future reference.
+Star Emails: Validate the ability to mark emails as important or starred.
+Search Emails: Ensure the search function accurately retrieves emails based on keywords.
+Create Labels: Verify that labels can be created to organize emails into categories.
+Apply Filters: Confirm that filters can automatically sort incoming emails based on criteria.
+Mark as Read/Unread: Validate marking emails as read or unread.
+Flag Emails: Ensure emails can be flagged for follow-up or prioritization.
+Move Emails: Check that emails can be moved between folders (e.g., inbox, archive, trash).
+Auto-Reply: Verify the setup and activation of automatic email replies (out of office).
+Email Signature: Confirm that users can create and append email signatures.
+Add Contacts: Validate adding new contacts to the Gmail address book.
+Edit Contacts: Ensure existing contacts can be edited with updated information.
+Group Contacts: Verify creating contact groups (e.g., for mailing lists).
+Sync Contacts: Check that contacts synchronize across devices and platforms.
+Import Contacts: Validate importing contacts from other email accounts or sources.
+Export Contacts: Confirm exporting contacts for backup or transfer purposes.
+Calendar Integration: Ensure events and invitations from Google Calendar appear correctly in Gmail.
+Task Creation: Verify that tasks can be created from emails using Google Tasks.
+Reminder Notifications: Confirm receiving notifications for upcoming events and tasks.
+Spam Filtering: Validate Gmail's spam filtering capabilities, ensuring unwanted emails are correctly flagged.
+Security Settings: Verify the setup and management of account security settings (e.g., two-factor authentication).
+Account Recovery: Ensure users can recover access to their accounts using recovery options.
+Change Password: Validate the process of changing the Gmail account password.
+Account Deletion: Confirm that accounts can be permanently deleted with appropriate warnings.
+Multiple Sign-in: Verify that users can sign in to multiple Gmail accounts simultaneously.
+Theme Customization: Ensure users can customize Gmail's appearance with different themes.
+Language Settings: Validate changing the language settings for Gmail's interface.
+Keyboard Shortcuts: Confirm the functionality of keyboard shortcuts for efficient email management.
+Conversation View: Verify the display and navigation of emails in conversation threads.
+Offline Access: Ensure Gmail can be accessed and used offline with synchronization upon reconnecting.
+Mobile App: Validate the functionality of Gmail's mobile app for Android and iOS.
+Notifications: Confirm receiving timely notifications for new emails on mobile devices.
+Swipe Actions: Verify the functionality of swipe actions for managing emails on mobile devices.
+Voice Commands: Validate using voice commands (e.g., via Google Assistant) for composing and managing emails.
+Read Aloud: Ensure the ability to have emails read aloud using accessibility features.
+Undo Send: Verify the functionality to undo sending an email immediately after hitting the send button.
+Email Filters: Check the setup and application of email filters to automatically organize incoming emails.
+Data Privacy: Validate Gmail's compliance with data privacy regulations (e.g., GDPR).
+File Attachment Preview: Ensure users can preview attached files (e.g., documents, images) without downloading them.
+Email Draft Autosave: Verify that email drafts are automatically saved periodically during composition.
+Gmail Labs: Validate experimental features enabled through Gmail Labs for additional functionality.
+Shared Mailboxes: Confirm accessing and managing shared mailboxes with appropriate permissions.
+Large File Sending: Validate the ability to send large files using Google Drive integration.
+Google Meet Integration: Ensure easy access to Google Meet for video conferencing directly from emails.
+Email Translation: Verify the functionality to translate emails into different languages.
+Task Assignment: Confirm assigning tasks created from emails to specific team members.
+GDPR Compliance: Validate Gmail's compliance with GDPR regulations regarding data handling and privacy.
+Third-party Integrations: Verify the functionality of third-party integrations with Gmail (e.g., CRM systems, project management tools).
+Email Filtering: Ensure advanced email filtering capabilities based on sender, subject, and content.
+Email Analytics: Validate receiving analytics on email open rates and click-through rates.
+Mobile Device Management: Verify the management of Gmail accounts on mobile devices through device policies.
+Email Templates: Confirm the creation and use of email templates for standardized messaging.
+Email Scheduling: Validate scheduling emails to be sent at a later time or date.
+OAuth Integration: Ensure seamless integration with OAuth for secure authentication and authorization.
+Custom Domain: Verify setting up and using Gmail with a custom domain for personalized email addresses.
+Email Notifications: Confirm receiving notifications for new emails through desktop notifications or browser alerts.
+Email Signature Management: Validate managing email signatures centrally for multiple users in an organization.
+GDPR Data Export: Ensure users can export their Gmail data in compliance with GDPR regulations.
+Smart Compose: Verify the functionality of Smart Compose for predictive text suggestions while composing emails.
+AI-powered Spam Detection: Confirm AI-powered spam detection for accurate filtering of unwanted emails.
+Voice Typing: Validate using voice typing for composing emails.
+Dark Mode: Ensure users can switch to dark mode for reduced eye strain during email management.
+Keyboard Accessibility: Verify Gmail's accessibility features for users with disabilities, including keyboard navigation.
+Bulk Email Management: Confirm the ability to manage bulk emails efficiently through grouping and filtering.
+Email Signature Variations: Validate creating multiple email signatures for different purposes or contexts.
+Email Archiving Policies: Ensure setting up and applying email archiving policies for compliance and storage management.
+Collaborative Inbox: Verify using a collaborative inbox for team-based email management.
+Advanced Search Filters: Confirm using advanced search filters (e.g., by date range, attachment type) for precise email retrieval.
+Email Notifications Customization: Validate customizing email notification settings based on importance and urgency.
+Email Read Receipts: Ensure sending and receiving email read receipts for message tracking.
+GDPR Data Retention: Verify setting up data retention policies in compliance with GDPR requirements.
+Email Retraction: Confirm the ability to retract sent emails before they are read by the recipient.
+Folder Management: Validate creating, renaming, and deleting email folders for organization.
+Email Analytics Reporting: Ensure generating reports on email usage, trends, and performance metrics.
+Email Storage Management: Verify managing email storage limits and quotas effectively.
+Custom Email Filters: Confirm creating custom email filters with specific conditions and actions.
+Remote Wipe: Ensure remotely wiping Gmail data from a lost or stolen device.
+Email Encryption: Validate email encryption capabilities for secure communication.
+Advanced Email Sorting: Confirm advanced sorting options for emails based on criteria such as sender, date, and importance.
+GDPR Data Erasure: Verify erasing personal data from emails in compliance with GDPR right to erasure.
+Email Reminder Alerts: Ensure receiving reminder alerts for follow-up actions on important emails.
+Email Merge: Validate merging multiple emails into a single conversation thread.
+Mobile Device Security: Confirm enforcing security policies on mobile devices accessing Gmail accounts.
+Email Analytics Integration: Ensure integrating email analytics with other analytics platforms for comprehensive reporting.
+Email Filtering by Language: Verify filtering emails based on language preferences.
+Email Template Sharing: Validate sharing email templates across teams or departments.
+Email Import/Export: Confirm importing and exporting emails for backup or migration purposes.
+Offline Email Access: Ensure accessing and managing emails offline with synchronization upon reconnecting.
+Voice Command Integration: Validate integrating voice commands for hands-free email management.
